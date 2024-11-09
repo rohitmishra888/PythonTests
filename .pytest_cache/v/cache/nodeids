@@ -1,0 +1,5 @@
+[
+  "Tests/sampletest.py::test_example",
+  "Tests/sampletest.py::test_example_2",
+  "Tests/sampletest.py::test_search_speed_test"
+]
